@@ -1,0 +1,17 @@
+
+.contador{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 350px;
+    font-size: 40px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #dcdcdc;
+    color: #1b1b32;
+    user-select: none;
+}
